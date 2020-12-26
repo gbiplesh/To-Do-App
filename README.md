@@ -1,2 +1,2 @@
 # To-Do-App
-This projects is built using Django and Bootstrap.
+This project is built using Django and Bootstrap.
